@@ -1,4 +1,4 @@
-# GitHub Graduation-2022
+# GitHub Graduation-2023
 
 ### Available Translations 🗣
 
@@ -28,7 +28,7 @@
 
 ![2022-github-graduation-social-card-1](/assets/GHG_Blog_1.jpg)
 
-This repository contains the yearbook for **GitHub Graduation 2022**. By issuing a pull request to this repository, you can request to be added to the GitHub Class of 2022.
+This repository contains the yearbook for **GitHub Graduation 2023**. By issuing a pull request to this repository, you can request to be added to the GitHub Class of 2023.
 
 The first 7,500 pull request successfully merged into the repository by May 27 will receive custom trading card, stickers, and letter in the mail.
 
@@ -40,15 +40,15 @@ Consider that all the information that you add to this repository will be public
 
 # Who can apply 📝
 
-We invite any student who has graduated, or plans to graduate, in 2022 to apply to the yearbook. This includes bootcamps, code camps, high school graduates, Master's graduates, Ph. D. Graduates, etc.
+We invite any student who has graduated, or plans to graduate, in 2023 to apply to the yearbook. This includes bootcamps, code camps, high school graduates, Master's graduates, Ph. D. Graduates, etc.
 
 The eligibility criteria are -
 
 1. You have been verified as a student with the GitHub Student Developer Pack. Not yet a part of the Pack? [Apply here](https://education.github.com/discount_requests/student_application?utm_source=2022-06-11-GitHubGraduation).
 2. You have not participated in a past GitHub Graduation event.
-3. You identify as a graduate in the year 2022.
+3. You identify as a graduate in the year 2023.
 
-# How to join the Class of 2022
+# How to join the Class of 2023
 Here are two steps to join graduation and receive your custom trading card and stickers in the mail. 
 
 1. [Fill out the **shipping form**](https://airtable.com/shrVMo8ItH4wjsO9f)
